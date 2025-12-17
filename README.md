@@ -1,1 +1,1 @@
-test_run.pyを試してみて，動いたら
+test_run.pyを試してみて，動いたらrun_stl.pyを動かしてみてほしい！stlファイルは直上にinputsディレクトリを作ってそこに入れてね
