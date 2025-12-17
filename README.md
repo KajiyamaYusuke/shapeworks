@@ -1,2 +1,4 @@
-test_run.pyを試してみて，動いたらrun_stl.pyを動かしてみてほしい！stlファイルは直上にinputsディレクトリを作ってそこに入れてね
+test_run.pyを試してみて，動いたらrun_stl.pyを動かしてみてほしい！
+stlファイルは直上にinputsディレクトリを作ってそこに入れてね
 pythonのコードはdeeplearning/shapeworksの中に入ってると思います
+good luck!!
